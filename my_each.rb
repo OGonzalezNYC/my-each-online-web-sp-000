@@ -10,3 +10,7 @@
 #   end
 #   array
 # end
+
+def my_each
+  
+end
