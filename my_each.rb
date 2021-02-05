@@ -11,6 +11,6 @@
 #   array
 # end
 
-def my_each
+def my_each(array)
   
 end
