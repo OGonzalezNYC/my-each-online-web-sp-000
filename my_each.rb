@@ -12,6 +12,9 @@
 # end
 
 def my_each(array)
-  yield(array)
-  array
+  i=0 
+  if array.size > 0 
+    while i < array.size 
+      yield array[i]
+      i += 1
 end
