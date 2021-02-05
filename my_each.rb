@@ -20,4 +20,5 @@ def my_each(array)
     end
   else 
     "This block should not run."
+  end
 end
